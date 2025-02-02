@@ -25,3 +25,12 @@ MTH371 Gauss-Seidel Method and L1-smoother Project:
 -Made: lower and upper matrices, a forward substitution function, a backward substitution function, a L1-smoother function, and a function that makes a regular Diagonal matrix.
 
 -Made: the diagonal matrix representing the L1-smoother, the forward Gauss-Seidel iteration matrix, the backward Gauss-Seidel iteration matrix and the symmetric Gauss-Seidel iteration matrix.
+
+MTH371 Sparse Matrices and LU Factorization Project:
+
+-Created a matrix in COO format, Dense format, and in CSR format.
+
+-Converted for COO for
+
+
+
