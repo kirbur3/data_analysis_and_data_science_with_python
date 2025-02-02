@@ -34,4 +34,15 @@ MTH371 Sparse Matrices and LU Factorization Project:
 
 -Converted from CSR format to COO format.
 
+-Wrote code for backward elimination with dense format matrix.
+
+-Made a forward substitution function and a backward substitution function.
+
+Personal Baseball Data Analysis Project
+
+-Renamed columns, used inequalities, mean, standard deviation, and variance.
+
+-Applied max, min, and value_counts functions.
+
+
 
