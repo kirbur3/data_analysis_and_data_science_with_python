@@ -30,7 +30,9 @@ MTH371 Sparse Matrices and LU Factorization Project:
 
 -Created a matrix in COO format, Dense format, and in CSR format.
 
--Converted for COO for
+-Converted from COO format to CSR fomrat.
+
+-Converted from CSR format to COO format.
 
 
 
