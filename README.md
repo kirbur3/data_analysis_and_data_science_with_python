@@ -38,11 +38,8 @@ MTH371 Sparse Matrices and LU Factorization Project:
 
 -Made a forward substitution function and a backward substitution function.
 
-Personal Baseball Data Analysis Project
+Personal Baseball Data Analysis Project:
 
 -Renamed columns, used inequalities, mean, standard deviation, and variance.
 
 -Applied max, min, and value_counts functions.
-
-
-
