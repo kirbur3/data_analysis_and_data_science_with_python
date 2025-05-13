@@ -1,7 +1,8 @@
 # data_analysis_and_data_science_with_python
 
 MTH343 Projections, Subspaces, Orthogonality, and QR Decomposition:
-"**Digit Classification via Least Squares and QR Decomposition**"
+
+Note: This project is listed in my CV as "**Digit Classification via Least Squares and QR Decomposition**".
 
 -Explored orthogonality and how to use it in order to describe matrices and solve least squares.
 
