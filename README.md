@@ -10,6 +10,20 @@ Note: This project is listed in my CV as "**Digit Classification via Least Squar
 
 -Improved the least squares classifier by implementing it as a binary classifier, took a vector for each category then used the matrices Q and R to solve the least squares problem for x for each of these vectors. In the end, got a resulting prediction, compared the predicted labels with the actual labels, and calculated the prediction accuracy.
 
+MATH343 Stationary Methods for Solving Positive Definite Systems:
+
+Note: This project is listed in my CV as "**Iterative Methods for Sparse Linear Systems**".
+
+-Developed L1, Forward Gauss-Seidel, and Symmetric Gauss-Seidel solvers for SPD systems; evaluated convergence via residual norm plots.
+
+-Implemented Arnoldi iteration to generate orthonormal Krylov bases and approximate matrix eigenvalues.
+
+-Extended Arnoldi to build a custom GMRES solver for non-symmetric systems with tolerance-based stopping criteria.
+
+-Visualized spectral convergence by comparing Hessenberg and full matrix eigenvalues across iterations.
+
+-Assessed algorithm performance across sparse matrices of varying size and condition number.
+
 MTH371 Arnoldi Algorithm and Eigenvalues Project:
 
 -Wrote a python function implementing the Arnoldi algorithm.
