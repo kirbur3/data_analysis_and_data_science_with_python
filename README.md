@@ -24,6 +24,20 @@ Note: This project is listed in my CV as "**Iterative Methods for Sparse Linear 
 
 -Assessed algorithm performance across sparse matrices of varying size and condition number.
 
+MTH343_Sparse_Matrices,_Symmetric_Matrices,_and_Relations_Graphs_Homework_2:
+
+Note: This project is listed in my CV as "**Sparse Matrices, Graphs, and CSR-Based Linear System Solving**".
+
+-Represented graph relationships (e.g., student-class enrollment) as sparse adjacency matrices using COO and CSR formats.
+
+-Implemented conversions between dense and sparse formats and verified accuracy via norm checks and SciPy equivalence.
+
+-Explored matrix relationships via AATA A^TAAT (student-student) and ATAA^T AATA (class-class) to uncover co-enrollment patterns.
+
+-Solved upper-triangular linear systems in CSR format using custom back substitution without converting to dense.
+
+-Validated custom solver output against spsolve_triangular to confirm correctness and numerical stability.
+
 MTH371 Arnoldi Algorithm and Eigenvalues Project:
 
 -Wrote a python function implementing the Arnoldi algorithm.
