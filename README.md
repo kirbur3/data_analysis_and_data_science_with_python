@@ -10,7 +10,7 @@ Note: This project is listed in my CV as "**Digit Classification via Least Squar
 
 -Improved the least squares classifier by implementing it as a binary classifier, took a vector for each category then used the matrices Q and R to solve the least squares problem for x for each of these vectors. In the end, got a resulting prediction, compared the predicted labels with the actual labels, and calculated the prediction accuracy.
 
-MATH343 Stationary Methods for Solving Positive Definite Systems:
+MATH343_Stationary_Methods_for_Solving_Positive_Definite_Systems_Homework_5:
 
 Note: This project is listed in my CV as "**Iterative Methods for Sparse Linear Systems**".
 
