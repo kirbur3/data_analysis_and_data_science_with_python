@@ -54,7 +54,7 @@ MTH371 Arnoldi Algorithm and Eigenvalues Project:
 
 -Tested the function with different matrices.
 
-MTH371 Gauss-Seidel Method and L1-smoother Project:
+**Stationary Iterative Solvers: Gauss-Seidel Method & L1 Smoother:**
 
 -Wrote an iterative algorithm for solving Ax=b for a given sparse s.p.d. matrix A stored in csr format.
 
