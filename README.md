@@ -20,9 +20,7 @@
 
 -Improved the least squares classifier by implementing it as a binary classifier, took a vector for each category then used the matrices Q and R to solve the least squares problem for x for each of these vectors. In the end, got a resulting prediction, compared the predicted labels with the actual labels, and calculated the prediction accuracy.
 
-MATH343_Stationary_Methods_for_Solving_Positive_Definite_Systems_Homework_5:
-
-Note: This project is listed as "**Iterative Methods for Sparse Linear Systems**".
+**Iterative Methods for Sparse Linear Systems:**
 
 -Developed L1, Forward Gauss-Seidel, and Symmetric Gauss-Seidel solvers for SPD systems; evaluated convergence via residual norm plots.
 
