@@ -62,7 +62,7 @@ MTH371 Arnoldi Algorithm and Eigenvalues Project:
 
 -Made: the diagonal matrix representing the L1-smoother, the forward Gauss-Seidel iteration matrix, the backward Gauss-Seidel iteration matrix and the symmetric Gauss-Seidel iteration matrix.
 
-MTH371 Sparse Matrices and LU Factorization Project:
+**Sparse Matrices and LU Factorization:**
 
 -Created a matrix in COO format, Dense format, and in CSR format.
 
