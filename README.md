@@ -2,7 +2,7 @@
 
 MTH343 Projections, Subspaces, Orthogonality, and QR Decomposition:
 
-Note: This project is listed in my CV as "**Digit Classification via Least Squares and QR Decomposition**".
+Note: This project is listed as "**Digit Classification via Least Squares and QR Decomposition**".
 
 -Explored orthogonality and how to use it in order to describe matrices and solve least squares.
 
@@ -12,7 +12,7 @@ Note: This project is listed in my CV as "**Digit Classification via Least Squar
 
 MATH343_Stationary_Methods_for_Solving_Positive_Definite_Systems_Homework_5:
 
-Note: This project is listed in my CV as "**Iterative Methods for Sparse Linear Systems**".
+Note: This project is listed as "**Iterative Methods for Sparse Linear Systems**".
 
 -Developed L1, Forward Gauss-Seidel, and Symmetric Gauss-Seidel solvers for SPD systems; evaluated convergence via residual norm plots.
 
@@ -24,9 +24,7 @@ Note: This project is listed in my CV as "**Iterative Methods for Sparse Linear 
 
 -Assessed algorithm performance across sparse matrices of varying size and condition number.
 
-MTH343_Sparse_Matrices,_Symmetric_Matrices,_and_Relations_Graphs_Homework_2:
-
-Note: This project is listed in my CV as "**Sparse Matrices, Graphs, and CSR-Based Linear System Solving**".
+**Sparse Matrices, Graphs, and CSR-Based Linear System Solving:**
 
 -Represented graph relationships (e.g., student-class enrollment) as sparse adjacency matrices using COO and CSR formats.
 
