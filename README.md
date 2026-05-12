@@ -12,9 +12,7 @@
 
 -Validated solutions using NumPy's built-in solvers and analyzed performance trade-offs of manual versus vectorized implementations.
 
-MTH343 Projections, Subspaces, Orthogonality, and QR Decomposition:
-
-Note: This project is listed as "**Digit Classification via Least Squares and QR Decomposition**".
+**Digit Classification via Least Squares and QR Decomposition:**
 
 -Explored orthogonality and how to use it in order to describe matrices and solve least squares.
 
