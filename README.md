@@ -44,7 +44,7 @@
 
 -Validated custom solver output against spsolve_triangular to confirm correctness and numerical stability.
 
-MTH371 Arnoldi Algorithm and Eigenvalues Project:
+**Arnoldi Algorithm and Eigenvalue Approximation:**
 
 -Wrote a python function implementing the Arnoldi algorithm.
 
