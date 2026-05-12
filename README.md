@@ -1,5 +1,17 @@
 # data_analysis_and_data_science_with_python
 
+**Numerical Linear Algebra and Matrix Computation in Python:**
+
+-Loaded and processed matrix datasets in various formats (e.g., .mtx, .npy) using NumPy and SciPy for matrix exploration and computation.
+
+-Implemented core linear algebra operations such as matrix multiplication, transposition, dot products, and slicing, with emphasis on broadcasting and vector shapes.
+
+-Performed filtering, sorting, and array reshaping; applied masks and permutations to manipulate data efficiently.
+
+-Developed a full LU decomposition algorithm from scratch and used forward and backward substitution to solve linear systems of equations.
+
+-Validated solutions using NumPy's built-in solvers and analyzed performance trade-offs of manual versus vectorized implementations.
+
 MTH343 Projections, Subspaces, Orthogonality, and QR Decomposition:
 
 Note: This project is listed as "**Digit Classification via Least Squares and QR Decomposition**".
